@@ -1,0 +1,26 @@
+{
+  "name": "project-suikari-web",
+  "version": "1.0.0",
+  "description": "Projeto Suikari",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirksahdo/project-suikari-web.git"
+  },
+  "author": "Kirk Sahdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirksahdo/project-suikari-web/issues"
+  },
+  "homepage": "https://github.com/kirksahdo/project-suikari-web#readme"
+}
